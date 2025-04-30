@@ -6,4 +6,4 @@ A candidate for the MauiFiles.com site: the Blazor WebAssembly Starter Template 
 
 ## Template Source
 
-This repo began as a close of the Blazor starter template for Azure Static Web Apps from [here](https://github.com/login?return_to=/staticwebdev/blazor-starter/generate).
+This repo began as a clone of the Blazor starter template for Azure Static Web Apps from [here](https://github.com/login?return_to=/staticwebdev/blazor-starter/generate).
