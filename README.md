@@ -1,4 +1,6 @@
-# MauiFiles.com Site - Blazor WebAssembly Starter Template
+# MauiFiles.com Site
+
+## Blazor WebAssembly Starter Template
 
 A candidate for the MauiFiles.com site: the Blazor WebAssembly Starter Template deployed through Azure Static Web Pages.
 
